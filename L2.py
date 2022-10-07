@@ -22,7 +22,7 @@ def start(kata):
                     if i=="0":
                         newstate.add("5")
                 case "5":
-                    newstate.add("5")
+                    pass
         state=newstate
         newstate=set([])
     for z in state:
