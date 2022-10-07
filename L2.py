@@ -30,3 +30,4 @@ def start(kata):
             print("diterima")
             return
     print("tidak diterima")
+
