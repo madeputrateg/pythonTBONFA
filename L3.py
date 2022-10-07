@@ -1,5 +1,5 @@
 def start(kata):
-    F={"6"}
+    F={"4"}
     state=set(["0"])
     newstate=set([])
     for i in kata:
